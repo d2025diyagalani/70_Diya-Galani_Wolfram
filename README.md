@@ -1,4 +1,3 @@
-# Maths SLA – Part 1
 
 ## Demonstrations Performed
 
